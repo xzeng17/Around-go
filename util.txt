@@ -1,0 +1,4 @@
+Elastic search user: root pw: 12345678
+
+GCS:
+around-xuankun
